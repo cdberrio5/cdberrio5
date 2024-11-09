@@ -62,8 +62,15 @@
 
 <h2>Certificaciones</h2>
 <ul>
-  <li>SQL Data Analysis for Business Intelligence</li>
-  <li>Git & GitHub</li>
-  <li>JavaScript, Node.js & Design Patterns</li>
-  <li>Odoo 12 - 17 Functional</li>
+  <li><a href="https://www.udemy.com/certificate/UC-f1e4d784-63ff-46da-9ab5-035718b4bc6c/">Python</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-7b8fbc8b-62f1-4c8a-a948-94843c5ba057">Git & GitHub</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-8fcbe1ba-2239-48f3-a4dc-1617737d896e">SQL</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-8fcbe1ba-2239-48f3-a4dc-1617737d896e">PostgreSQL & PgAdmin</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-a686549e-68d2-47db-b3da-fd5c76fca973">PHP & MySQL</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-ef7f59ba-e60f-4dfd-b0ca-58a8cd14a1e5">Pre-programming</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-b4898a9f-cd32-4e29-9121-fe396cb3d410/">JavaScript</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-6d88f966-a787-436a-b2af-f876e7fa3bf9/">JavaScript</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-fa10f6ea-e707-481c-a582-d83e73851e86">Node.js</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-d016f396-12c4-4c43-b7fa-80957aa4a05e/">Odoo 16 - 17</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-fc21eb34-b2dc-40b7-8d2d-549516c692a6/">Patrones de Diseño en JavaScript y Node.js</a></li>
 </ul>
